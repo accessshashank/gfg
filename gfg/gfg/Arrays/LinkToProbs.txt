@@ -1,0 +1,1 @@
+﻿https://practice.geeksforgeeks.org/explore?page=1&company[]=Amazon&company[]=Microsoft&category[]=Arrays&curated[]=1&sortBy=submissions
