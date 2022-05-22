@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>gfg.Arrays.SubArrayWithGivenSum</StartupObject>
+    <StartupObject>gfg.Arrays.EquilibriumPoint</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,7 +47,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Arrays\ConvertArrayToZigZag.cs" />
+    <Compile Include="Arrays\EquilibriumPoint.cs" />
+    <Compile Include="Arrays\LargestSubArrayWithSumZero.cs" />
     <Compile Include="Arrays\MissingNumberInArray.cs" />
+    <Compile Include="Arrays\SortZeroOneTwo.cs" />
     <Compile Include="Arrays\SubArrayWithGivenSum.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
