@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>gfg.Arrays.EquilibriumPoint</StartupObject>
+    <StartupObject>gfg.Arrays.LargestSubArrayWithSumZero</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
