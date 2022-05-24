@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>gfg.Arrays.LargestSubArrayWithSumZero</StartupObject>
+    <StartupObject>gfg.Arrays.ArrayPartition</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,12 +46,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Arrays\ArrayPartition.cs" />
     <Compile Include="Arrays\ConvertArrayToZigZag.cs" />
     <Compile Include="Arrays\EquilibriumPoint.cs" />
     <Compile Include="Arrays\LargestSubArrayWithSumZero.cs" />
+    <Compile Include="Arrays\LongestCommonPrefix.cs" />
+    <Compile Include="Arrays\MaxSubarraySum.cs" />
     <Compile Include="Arrays\MissingNumberInArray.cs" />
     <Compile Include="Arrays\SortZeroOneTwo.cs" />
     <Compile Include="Arrays\SubArrayWithGivenSum.cs" />
+    <Compile Include="Arrays\SwappingPairsMakeSumEqual.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
